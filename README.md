@@ -16,5 +16,5 @@ By leveraging data cleaning techniques, integrating data from multiple sheets us
 - Enhance interactivity using slicers.
 - Develop skills in data visualization.
 
-This project is available on [GitHub](#) and featured on my [LinkedIn](#) profile. Explore the interactive dashboard and enhance your data analytics capabilities today!
+ Explore the interactive dashboard and enhance your data analytics capabilities today! Happy learning :)
 
