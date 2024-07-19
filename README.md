@@ -1,5 +1,5 @@
 # Coffee-Sales-Dashboard
-![Coffee Sales Dashboard](https://github.com/yourusername/yourrepository/blob/main/dashboard.png](https://github.com/tanvirfau/Coffee-Sales-Dashboard/blob/main/dashboard_img.jpg?raw=true)
+![Coffee Sales Dashboard](https://github.com/tanvirfau/Coffee-Sales-Dashboard/blob/main/dashboard_img.jpg?raw=true)
 
 This interactive Coffee Sales Dashboard provides an intuitive and comprehensive view of coffee sales trends, customer insights, and geographical performance.
 By leveraging data cleaning techniques, integrating data from multiple sheets using the XLOOKUP function, and employing pivot tables and slicers, I have created a dynamic and user-friendly tool for data analysis.
